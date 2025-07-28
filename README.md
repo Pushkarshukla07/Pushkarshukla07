@@ -76,8 +76,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pushkarshukla07&theme=vue-dark&hide_border=true)
 
-
-
-<p align="Left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkarshukla07&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pushkarshukla07&show_icons=true&locale=en&layout=compact&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Pushkarshukla07" />
 </p>
+
