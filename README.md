@@ -7,7 +7,7 @@
   <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
 
-## Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i am Pushkar
+## Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i am Pushkar Shukla
 
 🧠 Passionate about building real-world solutions with React.js, Tailwind CSS, Python, and Blockchain.
 
@@ -63,7 +63,7 @@
 
 
 
-# 📊 GitHub Stats :
+# 📊 Stats :
 
 <p align="Left">
   <img src="https://github-readme-stats.vercel.app/api?username=Pushkarshukla07&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
