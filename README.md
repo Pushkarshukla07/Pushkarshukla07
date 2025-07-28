@@ -24,10 +24,11 @@
 # Skills 💪🏻
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c.svg" width="36" height="36" alt="C" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus.svg" width="36" height="36" alt="C++" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML" />
@@ -65,7 +66,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Pushkarshukla07&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=AcidOP&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pushkarshukla07&theme=vue-dark&hide_border=true)
+
 <p align="Left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkarshukla07&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
 </p>
