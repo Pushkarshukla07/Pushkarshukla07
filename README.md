@@ -56,6 +56,10 @@
   </a>
   <a href="https://twitter.com/Pushkarshukla55" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+    <a href="http://www.linkedin.com/in/shuklapushkar" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
+
 </p>
 
 
