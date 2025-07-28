@@ -21,9 +21,28 @@
 
 # Socials 🤳🏻
 
+<p align="left">
+
+  <a href="https://github.com/Pushkarshukla07" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
+  </a>
+  <a href="https://www.instagram.com/pushkar_s_shukla/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+  <a href="https://twitter.com/Pushkarshukla55" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+  </a>
+  <a href="https://zedge.me/pushkar-shukla" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/32/image.png" width="32" height="32" title="Zedge Wallpapers"/>
+  </a>
+</p>
+
 
 
 # 📊 GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=AcidOP&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcidOP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+![](https://github-readme-stats.vercel.app/api?username=Pushkarshukla07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Pushkarshukla07&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkarshukla07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
