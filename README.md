@@ -18,3 +18,12 @@
 📸 Photography lover | 🌿 Plant parent | 🥊 Ex-boxer | ⚽ Footballer
 
 📍 Based in Kanpur, India
+
+# Socials 🤳🏻
+
+
+
+# 📊 GitHub Stats :
+![](https://github-readme-streak-stats.herokuapp.com/?user=AcidOP&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AcidOP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
