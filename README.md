@@ -17,7 +17,8 @@
 
 📸 Photography lover | 🌿 Plant parent | 🥊 Ex-boxer | ⚽ Footballer
 
-📍 Kanpur Uttar Pradesh <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="36" height="24" alt="Indian Flag" />
+📍 Kanpur , UP 
+<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="36" height="24" alt="Indian Flag" />
 
 
 [![](https://komarev.com/ghpvc/?username=Pushkarshukla07)](https://komarev.com/ghpvc/?username=Pushkarshukla07)
