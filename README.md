@@ -31,9 +31,8 @@
   </a>
   <a href="https://twitter.com/Pushkarshukla55" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-  </a>
-  <a href="https://zedge.me/pushkar-shukla" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/fluency/32/image.png" width="32" height="32" title="Zedge Wallpapers"/>
+ <a href="https://zedge.me/pushkar-shukla" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/gallery.png" width="32" height="32" />
   </a>
 </p>
 
