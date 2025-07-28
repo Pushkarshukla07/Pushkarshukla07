@@ -19,6 +19,8 @@
 
 📍 Based in Kanpur, India
 
+
+
 # Skills 💪🏻
 
 <p align="left">
@@ -33,10 +35,14 @@
 
 
 
+
 # Socials 🤳🏻
 
 <p align="left">
 
+ <a href="https://zedge.me/pushkar-shukla" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/fluency/48/gallery.png" width="32" height="32" />
+  </a>
   <a href="https://github.com/Pushkarshukla07" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a>
@@ -45,9 +51,6 @@
   </a>
   <a href="https://twitter.com/Pushkarshukla55" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
- <a href="https://zedge.me/pushkar-shukla" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/gallery.png" width="32" height="32" />
-  </a>
 </p>
 
 
