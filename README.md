@@ -38,10 +38,17 @@
 
 
 
+
+
+
+
 # 📊 GitHub Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Pushkarshukla07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pushkarshukla07&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkarshukla07&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="Left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushkarshukla07&show_icons=true&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=AcidOP&theme=vue-dark&hide_border=true)<br/>
+<p align="Left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkarshukla07&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+</p>
